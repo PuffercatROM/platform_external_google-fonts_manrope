@@ -17,9 +17,9 @@
 # get installed too.
 
 PRODUCT_PACKAGES := \
-    Lato-Regular.ttf \
-    Lato-Italic.ttf \
-    Lato-Medium.ttf \
-    Lato-MediumItalic.ttf \
-    Lato-Bold.ttf \
-    Lato-BoldItalic.ttf
+    Manrope-Regular.ttf \
+    Manrope-Italic.ttf \
+    Manrope-Medium.ttf \
+    Manrope-MediumItalic.ttf \
+    Manrope-Bold.ttf \
+    Manrope-BoldItalic.ttf

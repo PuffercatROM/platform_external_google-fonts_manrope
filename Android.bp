@@ -47,37 +47,37 @@ license {
 }
 
 prebuilt_font {
-    name: "Lato-Regular.ttf",
-    src: "Lato-Regular.ttf",
+    name: "Manrope-Regular.ttf",
+    src: "Manrope-Regular.ttf",
     product_specific: true,
 }
 
 prebuilt_font {
-    name: "Lato-Italic.ttf",
-    src: "Lato-Italic.ttf",
+    name: "Manrope-Italic.ttf",
+    src: "Manrope-Italic.ttf",
     product_specific: true,
 }
 
 prebuilt_font {
-    name: "Lato-Medium.ttf",
-    src: "Lato-Medium.ttf",
+    name: "Manrope-Medium.ttf",
+    src: "Manrope-Medium.ttf",
     product_specific: true,
 }
 
 prebuilt_font {
-    name: "Lato-MediumItalic.ttf",
-    src: "Lato-MediumItalic.ttf",
+    name: "Manrope-MediumItalic.ttf",
+    src: "Manrope-MediumItalic.ttf",
     product_specific: true,
 }
 
 prebuilt_font {
-    name: "Lato-Bold.ttf",
-    src: "Lato-Bold.ttf",
+    name: "Manrope-Bold.ttf",
+    src: "Manrope-Bold.ttf",
     product_specific: true,
 }
 
 prebuilt_font {
-    name: "Lato-BoldItalic.ttf",
-    src: "Lato-BoldItalic.ttf",
+    name: "Manrope-BoldItalic.ttf",
+    src: "Manrope-BoldItalic.ttf",
     product_specific: true,
 }

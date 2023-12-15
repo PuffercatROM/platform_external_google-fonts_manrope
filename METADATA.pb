@@ -1,169 +1,169 @@
-name: "Lato"
-designer: "Łukasz Dziedzic"
+name: "Manrope"
+designer: "Michael Sharanda"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2010-12-15"
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 100
-  filename: "Lato-Thin.ttf"
-  post_script_name: "Lato-Thin"
-  full_name: "Lato Thin"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Thin.ttf"
+  post_script_name: "Manrope-Thin"
+  full_name: "Manrope Thin"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 100
-  filename: "Lato-ThinItalic.ttf"
-  post_script_name: "Lato-ThinItalic"
-  full_name: "Lato Thin Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-ThinItalic.ttf"
+  post_script_name: "Manrope-ThinItalic"
+  full_name: "Manrope Thin Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 200
-  filename: "Lato-ExtraLight.ttf"
-  post_script_name: "Lato-ExtraLight"
-  full_name: "Lato ExtraLight"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-ExtraLight.ttf"
+  post_script_name: "Manrope-ExtraLight"
+  full_name: "Manrope ExtraLight"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 200
-  filename: "Lato-ExtraLightItalic.ttf"
-  post_script_name: "Lato-ExtraLightItalic"
-  full_name: "Lato ExtraLight Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-ExtraLightItalic.ttf"
+  post_script_name: "Manrope-ExtraLightItalic"
+  full_name: "Manrope ExtraLight Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 300
-  filename: "Lato-Light.ttf"
-  post_script_name: "Lato-Light"
-  full_name: "Lato Light"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Light.ttf"
+  post_script_name: "Manrope-Light"
+  full_name: "Manrope Light"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 300
-  filename: "Lato-LightItalic.ttf"
-  post_script_name: "Lato-LightItalic"
-  full_name: "Lato Light Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-LightItalic.ttf"
+  post_script_name: "Manrope-LightItalic"
+  full_name: "Manrope Light Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 400
-  filename: "Lato-Regular.ttf"
-  post_script_name: "Lato-Regular"
-  full_name: "Lato Regular"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Regular.ttf"
+  post_script_name: "Manrope-Regular"
+  full_name: "Manrope Regular"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 400
-  filename: "Lato-Italic.ttf"
-  post_script_name: "Lato-Italic"
-  full_name: "Lato Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Italic.ttf"
+  post_script_name: "Manrope-Italic"
+  full_name: "Manrope Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 500
-  filename: "Lato-Medium.ttf"
-  post_script_name: "Lato-Medium"
-  full_name: "Lato Medium"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Medium.ttf"
+  post_script_name: "Manrope-Medium"
+  full_name: "Manrope Medium"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 500
-  filename: "Lato-MediumItalic.ttf"
-  post_script_name: "Lato-MediumItalic"
-  full_name: "Lato Medium Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-MediumItalic.ttf"
+  post_script_name: "Manrope-MediumItalic"
+  full_name: "Manrope Medium Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 600
-  filename: "Lato-SemiBold.ttf"
-  post_script_name: "Lato-SemiBold"
-  full_name: "Lato SemiBold"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-SemiBold.ttf"
+  post_script_name: "Manrope-SemiBold"
+  full_name: "Manrope SemiBold"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 600
-  filename: "Lato-SemiBoldItalic.ttf"
-  post_script_name: "Lato-SemiBoldItalic"
-  full_name: "Lato SemiBold Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-SemiBoldItalic.ttf"
+  post_script_name: "Manrope-SemiBoldItalic"
+  full_name: "Manrope SemiBold Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 700
-  filename: "Lato-Bold.ttf"
-  post_script_name: "Lato-Bold"
-  full_name: "Lato Bold"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Bold.ttf"
+  post_script_name: "Manrope-Bold"
+  full_name: "Manrope Bold"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 700
-  filename: "Lato-BoldItalic.ttf"
-  post_script_name: "Lato-BoldItalic"
-  full_name: "Lato Bold Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-BoldItalic.ttf"
+  post_script_name: "Manrope-BoldItalic"
+  full_name: "Manrope Bold Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 800
-  filename: "Lato-ExtraBold.ttf"
-  post_script_name: "Lato-ExtraBold"
-  full_name: "Lato ExtraBold"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-ExtraBold.ttf"
+  post_script_name: "Manrope-ExtraBold"
+  full_name: "Manrope ExtraBold"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 800
-  filename: "Lato-ExtraBoldItalic.ttf"
-  post_script_name: "Lato-ExtraBoldItalic"
-  full_name: "Lato ExtraBold Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-ExtraBoldItalic.ttf"
+  post_script_name: "Manrope-ExtraBoldItalic"
+  full_name: "Manrope ExtraBold Italic"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "normal"
   weight: 900
-  filename: "Lato-Black.ttf"
-  post_script_name: "Lato-Black"
-  full_name: "Lato Black"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-Black.ttf"
+  post_script_name: "Manrope-Black"
+  full_name: "Manrope Black"
+  copyright: ""
 }
 fonts {
-  name: "Lato"
+  name: "Manrope"
   style: "italic"
   weight: 900
-  filename: "Lato-BlackItalic.ttf"
-  post_script_name: "Lato-BlackItalic"
-  full_name: "Lato Black Italic"
-  copyright: "Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). "
+  filename: "Manrope-BlackItalic.ttf"
+  post_script_name: "Manrope-BlackItalic"
+  full_name: "Manrope Black Italic"
+  copyright: ""
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"
