@@ -16,7 +16,7 @@
 //     CONSULT THE OWNERS AND opensource-licensing@google.com BEFORE
 //     DEPENDING ON IT IN YOUR PROJECT. ***
 package {
-    default_applicable_licenses: ["external_google-fonts_lato_license"],
+    default_applicable_licenses: ["external_google-fonts_manrope_license"],
 }
 
 // Added automatically by a large-scale-change that took the approach of
@@ -34,7 +34,7 @@ package {
 // used in the current project.
 // See: http://go/android-license-faq
 license {
-    name: "external_google-fonts_lato_license",
+    name: "external_google-fonts_manrope_license",
     visibility: [":__subpackages__"],
     license_kinds: [
         "SPDX-license-identifier-MIT",
